@@ -117,6 +117,13 @@ A aplicação substituiu um processo **manual e suscetível a erros** por uma fe
 
 ---
 
+## Download do Executável
+Devido ao limite de 25MB do GitHub, o executável não está hospedado no repositório.  
+👉 Você pode baixar e testar a versão mais recente por este link:  
+**[Download do Executável](https://seu-link-aqui.com)**  
+
+---
+
 ## 🚀 Instalação e uso  
 
 Clone este repositório:  
@@ -133,6 +140,64 @@ python app.py
 ```
 
 📌 O sistema abrirá em tela cheia com interface Tkinter.  
+
+---
+
+## ⚙️ Como Gerar seu Próprio Executável
+
+Caso você queira compilar o sistema por conta própria, siga as instruções abaixo:
+
+1. **Instale o PyInstaller**  
+   Certifique-se de ter o Python instalado (3.10+ recomendado).  
+   Depois, instale o PyInstaller:  
+
+   ```bash
+   pip install pyinstaller
+   ```
+
+2. **Compile o executável**  
+   Na pasta do projeto, execute:  
+
+   ```bash
+   pyinstaller --onefile --noconsole app.py
+   ```
+
+   Onde `app.py` é o arquivo principal do sistema.
+
+3. **Personalize o ícone (opcional)**  
+   Caso queira incluir um ícone personalizado no executável, utilize o parâmetro `--icon`:  
+
+   ```bash
+   pyinstaller --onefile --noconsole --icon=app-icon.ico app.py
+   ```
+
+   > O arquivo `app-icon.ico` deve estar na mesma pasta do projeto.
+
+4. **Logo da Interface**  
+   Se quiser manter a logo da empresa visível na interface (como mostrado nos prints), certifique-se de deixar a imagem da logo (por exemplo, `background-logo.png`) **na mesma pasta do executável**.  
+
+   Dessa forma, o programa conseguirá carregar a imagem corretamente.
+
+5. **Personalizações adicionais**  
+   - O **título da janela** do programa, a seção **"Sobre"** do menu e outros textos podem ser facilmente alterados diretamente no código-fonte.  
+   - Basta abrir o arquivo `.py` em um editor de código e ajustar conforme desejar.
+
+6. **Arquivos Gerados pelo PyInstaller**
+
+Após a compilação, o PyInstaller criará uma pasta chamada **`dist/`** e
+outra chamada **`build/`**:
+
+-   **dist/** → Contém o **executável final** (arquivo `.exe` no
+    Windows). Este é o arquivo que você pode distribuir para os
+    usuários.\
+-   **build/** → Contém arquivos temporários e de suporte usados durante
+    a criação do executável (pode ser ignorada na distribuição).\
+-   **app.spec** → Arquivo de configuração gerado pelo PyInstaller que
+    guarda as opções de build utilizadas (pode ser reutilizado em
+    futuras compilações).
+
+O executável estará dentro da pasta **`dist/`**.\
+Exemplo: `dist/app.exe`
 
 ---
 
