@@ -110,12 +110,12 @@ A aplicação substituiu um processo **manual e suscetível a erros** por uma fe
 ### Tela principal  
 *(adicione aqui um print mostrando o sistema em execução)*  
 
-![Tela Principal](prints/tela_principal.png)  
+![Tela Principal](prints/tela_principal.jpg)  
 
 ### Filtros aplicados  
 *(adicione aqui um print mostrando os filtros em uso)*  
 
-![Filtros](prints/filtros.png)  
+![Filtros](prints/filtros.jpg)  
 
 ---
 
