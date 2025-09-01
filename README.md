@@ -38,8 +38,8 @@ Sistema local de **cadastro e follow-up de contatos** desenvolvido em **Python +
 
 Este sistema foi desenvolvido como uma **solução local (desktop)** para um centro de ensino que enfrentava **perdas de matrículas devido à desorganização no controle de leads em planilhas**.  
 
-O objetivo foi criar uma ferramenta **robusta, intuitiva e de fácil instalação** para:  
-- Centralizar o cadastro de contatos  
+O objetivo foi criar uma ferramenta **robusta, intuitiva e de fácil instalação** para:
+- Centralizar e agilizar o cadastro de contatos  
 - Organizar o follow-up  
 - Extrair dados estratégicos para tomada de decisão  
 
@@ -86,7 +86,7 @@ Na primeira execução, o sistema cria automaticamente o arquivo `contacts.db`.
 Isso simplifica o backup e a portabilidade, eliminando a necessidade de um servidor de banco de dados complexo.  
 
 **Interface Amigável:**  
-A interface construída com Tkinter foi projetada para ser limpa e funcional, incluindo barras de rolagem horizontal e vertical para navegar com facilidade por grandes volumes de dados.  
+A interface construída com Tkinter foi projetada para ser limpa, intuitiva e funcional, incluindo barras de rolagem horizontal e vertical para navegar com facilidade por grandes volumes de dados. Em poucos segundos e com pouquíssimos cliques o usuário pode criar um novo cadastro ou buscar por um em específico.
 
 ---
 
