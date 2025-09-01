@@ -73,7 +73,7 @@ Permite encontrar um número por qualquer sequência de dígitos, ignorando form
 Facilita a análise de leads que visitaram a unidade em intervalos específicos.  
 
 **Entrada de Dados Inteligente (Autoformatação):**  
-Para agilizar o cadastro e garantir a padronização das informações, o sistema aplica formatações automáticas em tempo real:  
+Para agilizar o cadastro e garantir a padronização das informações, o sistema aplica formatações automáticas em tempo real de forma inteligente:  
 - Datas: `01012025` é convertido para `01/01/2025`  
 - Telefones: `11987551220` é formatado como `(11) 98755-1220`  
 - Valores Monetários: normalizados para o padrão brasileiro `R$ 1.234,56`  
