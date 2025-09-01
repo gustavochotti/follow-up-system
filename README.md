@@ -183,20 +183,20 @@ Caso você queira compilar o sistema por conta própria, siga as instruções ab
 
 6. **Arquivos Gerados pelo PyInstaller**
 
-Após a compilação, o PyInstaller criará uma pasta chamada **`dist/`** e
-outra chamada **`build/`**:
-
--   **dist/** → Contém o **executável final** (arquivo `.exe` no
-    Windows). Este é o arquivo que você pode distribuir para os
-    usuários.\
--   **build/** → Contém arquivos temporários e de suporte usados durante
-    a criação do executável (pode ser ignorada na distribuição).\
--   **app.spec** → Arquivo de configuração gerado pelo PyInstaller que
-    guarda as opções de build utilizadas (pode ser reutilizado em
-    futuras compilações).
-
-O executável estará dentro da pasta **`dist/`**.\
-Exemplo: `dist/app.exe`
+    Após a compilação, o PyInstaller criará uma pasta chamada **`dist/`** e
+    outra chamada **`build/`**:
+    
+    -   **dist/** → Contém o **executável final** (arquivo `.exe` no
+        Windows). Este é o arquivo que você pode distribuir para os
+        usuários.\
+    -   **build/** → Contém arquivos temporários e de suporte usados durante
+        a criação do executável (pode ser ignorada na distribuição).\
+    -   **app.spec** → Arquivo de configuração gerado pelo PyInstaller que
+        guarda as opções de build utilizadas (pode ser reutilizado em
+        futuras compilações).
+    
+    O executável estará dentro da pasta **`dist/`**.\
+    Exemplo: `dist/app.exe`
 
 ---
 
