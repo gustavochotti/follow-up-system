@@ -149,8 +149,3 @@ python app.py
 
 Este projeto foi desenvolvido para um cliente real, mas está publicado aqui com fins **educacionais e de portfólio**.  
 Sinta-se à vontade para se inspirar e evoluir a solução.  
-
----
-
-## App Icon Attribution
-<a href="https://www.flaticon.com/free-icons/contact" title="contact icons">Contact icons created by FACH - Flaticon</a>
