@@ -40,7 +40,8 @@ Este sistema foi desenvolvido como uma **solução local (desktop)** para um cen
 
 O objetivo foi criar uma ferramenta **robusta, intuitiva e de fácil instalação** para:
 - Centralizar e agilizar o cadastro de contatos  
-- Organizar o follow-up  
+- Organizar o follow-up
+- Buscar e acessar informações de forma simples e rápida
 - Extrair dados estratégicos para tomada de decisão  
 
 ---
