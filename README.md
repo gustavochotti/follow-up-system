@@ -98,7 +98,7 @@ A aplicação substituiu um processo **manual e suscetível a erros** por uma fe
 - A capacidade de **filtrar**, **formatar dados automaticamente** e **exportar relatórios personalizados** deu à equipe comercial um **controle maior** sobre suas operações.  
 - Resultados:  
   - Melhor organização
-  - Otimização do processo de cadastro 
+  - Otimização do processo de busca e cadastro 
   - Follow-ups mais eficazes  
   - Gestão baseada em dados
   - Redução de perdas de leads e aumento de matrículas  
