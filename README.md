@@ -95,11 +95,12 @@ A interface construída com Tkinter foi projetada para ser limpa, intuitiva e fu
 
 A aplicação substituiu um processo **manual e suscetível a erros** por uma ferramenta **centralizada e eficiente**.  
 
-- A capacidade de **filtrar**, **formatar dados automaticamente** e **exportar relatórios personalizados** deu à equipe comercial um **controle sem precedentes** sobre suas operações.  
+- A capacidade de **filtrar**, **formatar dados automaticamente** e **exportar relatórios personalizados** deu à equipe comercial um **controle maior** sobre suas operações.  
 - Resultados:  
-  - Melhor organização  
+  - Melhor organização
+  - Otimização do processo de cadastro 
   - Follow-ups mais eficazes  
-  - Gestão baseada em dados concretos  
+  - Gestão baseada em dados
   - Redução de perdas de leads e aumento de matrículas  
 
 ---
