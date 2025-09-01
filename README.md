@@ -117,11 +117,6 @@ A aplicação substituiu um processo **manual e suscetível a erros** por uma fe
 
 ![Filtros](prints/filtros.png)  
 
-### Exportação CSV  
-*(adicione aqui um print mostrando o CSV gerado com os contatos)*  
-
-![Exportação CSV](prints/export_csv.png)  
-
 ---
 
 ## 🚀 Instalação e uso  
