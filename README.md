@@ -119,8 +119,7 @@ A aplicação substituiu um processo **manual e suscetível a erros** por uma fe
 
 ## Download do Executável
 Devido ao limite de 25MB do GitHub, o executável não está hospedado no repositório.  
-👉 Você pode baixar e testar a versão mais recente por este link:  
-**[Download do Executável](https://seu-link-aqui.com)**  
+👉 Você pode baixar e testar a versão mais recente por este link:  **[Download do Executável](https://seu-link-aqui.com)**  
 
 ---
 
