@@ -1,4 +1,4 @@
-# Fisk Follow-up 📊
+# Follow-up System 📊
 
 Sistema local de **cadastro e follow-up de contatos** desenvolvido em **Python + Tkinter + SQLite**, com filtros avançados, autoformatação de dados e exportação para CSV.  
 
@@ -129,8 +129,8 @@ A aplicação substituiu um processo **manual e suscetível a erros** por uma fe
 Clone este repositório:  
 
 ```bash
-git clone https://github.com/seu-usuario/fisk-followup.git
-cd fisk-followup
+git clone https://github.com/gustavochotti/follow-up-system.git
+cd follow-up-system
 ```
 
 Execute o sistema:  
